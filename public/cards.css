@@ -1,0 +1,65 @@
+.orange {
+    background-color: #ec5f0c;
+}
+
+.pink {
+    background-color: #c70858;
+}
+
+.purple {
+    background-color: #56457a;
+}
+
+.green {
+    background-color: #3a8c31;
+}
+
+.blue {
+    background-color: #548aca;
+}
+
+.yellow {
+    background-color: #ebe652;
+}
+
+.black {
+    background-color: black;
+}
+
+.picture {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.candycane {
+    background-image: url('/images/candycane.svg');
+}
+
+.gingerbread {
+    background-image: url('/images/gingerbread.svg');
+}
+
+.gumdrops {
+    background-image: url('/images/gumdrops.svg');
+}
+
+.icecream {
+    background-image: url('/images/icecream.svg');
+}
+
+.lollipop {
+    background-image: url('/images/lollipop.svg');
+}
+
+.lovehearts {
+    background-image: url('/images/lovehearts.svg');
+}
+
+.peanuts {
+    background-image: url('/images/peanuts.svg');
+}
+
+.start {
+    background-image: url('/images/start.svg');
+}
