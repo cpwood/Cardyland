@@ -1,6 +1,8 @@
 # Cardyland
 ## A sweet little app for sweet little folks!
 
+**Play at [www.cardyland.com](http://www.cardyland.com/)**
+
 This was created in [Svelte](https://svelte.dev/) by Chris Wood, Tom Chesterton-Wood and James Chesterton-Wood as a means of playing
 **Candy Land** without the physical cards. The stack of cards usually ends up toppling over, getting lost...
 we've all been there!
